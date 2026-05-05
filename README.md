@@ -5,7 +5,7 @@ A machine learning model that detects phishing URLs with 97.38% accuracy.
 ## Results
 | Model | Accuracy | AUC |
 |---|---|---|
-| Logistic Regression | 93.89% | - |
+| Logistic Regression | 93.89% |0.9824 |
 | Random Forest | 97.38% | 0.9947 |
 
 ## Key Findings
